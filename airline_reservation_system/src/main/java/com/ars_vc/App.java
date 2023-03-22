@@ -13,8 +13,8 @@ import com.ars_vc.serviceImpl.AdminServiceImpl;
 import com.ars_vc.serviceImpl.PassengerServiceImpl;
 
 /**
- * Hello world!
- *
+ ======================================== AIRLINE RESERVATION SYSTEM PROJECT======================================
+											Author: Bipul Debnath
  */
 public class App 
 {
